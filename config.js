@@ -8,9 +8,9 @@ const CONFIG = {
     btnYes: 'Dell bạn ạ<3',
     btnNo: 'Kó bạn ặ:3',
     question: 'Ựa sao bạn ghét mình:(',
-    btnReply: 'Whyyy:(',
+    btnReply: 'Ựa sảd :(',
     reply: 'Vì bạn ngu ẻ ai thèm quý, rồi còn biếng gánh gãy lưng',
     mess: 'Hmu éo crush bạn nữa, giãy đành đành🙀💔',
     messDesc: 'Thế bạn muốn gánh mình thêm Toán Anh Văn với gánh mình như gánh tạ tiếp ko=))',
     btnAccept: 'Méo bạn, mệt rồi',
-    messLink: 'https://genshin.mihoyo.com/es/home'
+    messLink: 'https://genshin.mihoyo.com/vi/home'
