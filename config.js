@@ -1,20 +1,16 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    titleWeb: "Hú chào bạn qua màn hình✨",
+    introTitle: 'Làm theo như con Vyy thôi=)',
+    introDesc: `Nụ cười của Super Idol Cũng không ngọt như cậu Cái nắng chói chang giữa tháng 8 Cũng không tỏa nắng bằng cậu =))`,
+    btnIntro: 'Con Vyy dạy mình đấy=)',
+    title: 'Bạn có quý con Lạcc (loài) dù nó ngu méo tả nổi này không=))',
+    desc: 'Chọn đi bạn:)) ',
+    btnYes: 'Dell bạn ạ<3',
+    btnNo: 'Kó bạn ặ:3',
+    question: 'Ựa sao bạn ghét mình:(',
+    btnReply: 'Whyyy:(',
+    reply: 'Vì bạn ngu ẻ ai thèm quý, rồi còn biếng gánh gãy lưng',
+    mess: 'Hmu éo crush bạn nữa, giãy đành đành🙀💔',
+    messDesc: 'Thế bạn muốn gánh mình thêm Toán Anh Văn với gánh mình như gánh tạ tiếp ko=))',
+    btnAccept: 'Méo bạn, mệt rồi',
+    messLink: 'https://genshin.mihoyo.com/es/home'
