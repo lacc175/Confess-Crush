@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Hú chào bạn qua màn hình✨",
+    titleWeb: "Hiii:Đ",
     introTitle: 'Làm theo như con Vyy thôi=)',
     introDesc: `Nụ cười của Super Idol Cũng không ngọt như cậu Cái nắng chói chang giữa tháng 8 Cũng không tỏa nắng bằng cậu =))`,
     btnIntro: 'Con Vyy dạy mình đấy=)',
